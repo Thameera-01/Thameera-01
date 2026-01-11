@@ -3,13 +3,18 @@
 <h1 align="center">Hi 👋, I'm Thameera Thathsara</h1>
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-
+<table>
+  <td>
 - 🌱 I’m currently learning **OOP with Java**
 
 - 👨‍🎓I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**
 
 - 📫 How to reach me **thameerathathsara98@gmail.com**
-
+  </td>
+  <td>
+    
+  </td>
+</table>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/thameera" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9688a1d6-d124-47ba-94e6-f1a1efe67946" alt="thameera" height="30" width="50" /></a>
