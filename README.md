@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Thameera Thathsara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thameera-01&label=Profile%20views&color=0e75b6&style=flat" alt="thameera-01" /> </p>
+
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
