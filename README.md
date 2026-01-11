@@ -5,11 +5,13 @@
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <table>
   <td>
+    
  - 🌱 I’m currently learning OOP with Java
 
 - 👨‍🎓I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**
 
 - 📫 How to reach me **thameerathathsara98@gmail.com**
+  
   </td>
   <td>
     
@@ -32,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-### Thanks for Visiting my GitHub Profile!
+ Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
