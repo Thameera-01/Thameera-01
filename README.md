@@ -38,10 +38,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- Thanks for Visiting my GitHub Profile!
-
----
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
