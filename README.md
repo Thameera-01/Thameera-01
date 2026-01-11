@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
