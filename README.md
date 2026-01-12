@@ -14,7 +14,7 @@
 
 - 👨‍🎓I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**
 
-- 📫 How to reach me **thameerathathsara98@gmail.com**
+- 📫 How to reach me **thameerathathsara1@gmail.com**
   
   </td>
   <td>
