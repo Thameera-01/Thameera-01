@@ -9,11 +9,12 @@
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <table>
   <td>
- - 👨‍🎓 I am Thameera Thathsara.
+    
+  - 👨‍💻 I am Thameera Thathsara.
     
  - 🌱 I’m currently learning OOP with Java.
 
-- 👨‍🎓I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**.
+- 👨‍🎓 I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**.
 
 - 📫 How to reach me **thameerathathsara1@gmail.com**.
 
