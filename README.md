@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://twitter.com/thameera" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9688a1d6-d124-47ba-94e6-f1a1efe67946" alt="thameera" height="30" width="50" /></a>
-<a href="https://linkedin.com/in/thameera thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thameera thathsara" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/thameera thathsara](https://www.linkedin.com/in/thameera-thathsara-794499311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thameera thathsara" height="30" width="50" /></a>
 <a href="https://instagram.com/thameera thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thameera thathsara" height="30" width="50" /></a>
 
 </p>
