@@ -6,15 +6,16 @@
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <table>
-  <td>
-   -👨‍💻 I am Thameera Thathsara.
+  <td>  
     
-  - 🌱 I’m currently learning OOP with Java.
+   - 👨‍💻 I am Thameera Thathsara.
+    
+   - 🌱 I’m currently learning OOP with Java.
     
    - 👨‍🎓 I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**.
    
-  - 📫 How to reach me **thameerathathsara1@gmail.com**.
-    
+   - 📫 How to reach me **thameerathathsara1@gmail.com**.
+     
   </td>
   <td>
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
