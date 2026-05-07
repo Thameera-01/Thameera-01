@@ -1,98 +1,40 @@
+<h1 align="center">Hi 👋, I'm Thameera Thathsara</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-# 👋 Hi, I'm Thameera Thathsara
+<h3 align="center">A passionate developer from Sri Lanka</h3>
+<table>
+  <td>
+   -👨‍💻 I am Thameera Thathsara.
+    
+  - 🌱 I’m currently learning OOP with Java.
+    
+   - 👨‍🎓 I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**.
+   
+  - 📫 How to reach me **thameerathathsara1@gmail.com**.
+    
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+      </td>
+</table>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/thameera" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9688a1d6-d124-47ba-94e6-f1a1efe67946" alt="thameera" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/thameera-thathsara-794499311/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/31124284-7553-4e5a-857c-c48b588de5fa" alt="thameera thathsara" height="30" width="50" /></a><a href="https://www.instagram.com/thameera_th?igsh=MXNpeDU5d280cnVyeA==" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e1d9ae0b-279e-463b-b9ec-2894e7a56897" alt="thameera thathsara" height="30" width="50"/></a>
+<a href="https://medium.com/@thameerathathsara98" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b63ce80-019e-45d9-b45f-bc94a5ec9bd9"  alt="thameera thathsara" height="30" width="50" /></a>
 
-<div align="center">
-  <p>
-    <a href="https://twitter.com/thameera" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/thameera-thathsara-794499311/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://medium.com/@thameerathathsara98" target="blank">
-      <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white" alt="Medium"/>
-    </a>
-    <a href="mailto:thameerathathsara1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
+</p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"><img  src="https://github.com/user-attachments/assets/bdbc6d71-ba38-4db7-91dd-cc9661d2403a" alt="angular" width="50" height="50"> <img src="https://github.com/user-attachments/assets/3b16f5b6-53cd-42b1-a9d9-fbc9bd60c2ec" alt="bootstrap" width="50" height="50"> <img src="https://github.com/user-attachments/assets/2ce0bae4-f5ae-43c0-88ed-ffd7f9c24e81" alt="c" width="50" height="50"> <img src="https://github.com/user-attachments/assets/d78b3e20-2b3c-4aac-9b99-3e06a82a40f8" alt="css3" width="50" height="50"> 
+  <img src="https://github.com/user-attachments/assets/33351ecf-dd80-43c1-b16b-fa1d67626276" alt="docker" width="50" height="50"> <img src="https://github.com/user-attachments/assets/b59ed972-b610-4ca7-8d42-f9f8aab9d05a" alt="git" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/1dbec805-2d03-4292-b692-3d060519a175" alt="html5" width="50" height="50"> <img src="https://github.com/user-attachments/assets/1ceca38d-020c-4ead-969a-4bf4fa19e5a4" alt="java" width="50" height="50"> <img src="https://github.com/user-attachments/assets/b8056cf1-ceef-48be-b05c-2c854d6c9276" alt="javascript" width="50" height="50"> <img src="https://github.com/user-attachments/assets/ef6d017b-3343-40d8-9081-0812eaa2b2dd" alt="linux" width="50" height="50"> <img src="https://github.com/user-attachments/assets/eaed3e4a-09a8-48b7-8fea-3d4955d4cb3c" alt="mysql" width="50" height="50"> <img src="https://github.com/user-attachments/assets/edc7441c-2f37-4d57-8f73-9ea2eb82c3c2" alt="python" width="50" height="50"> <img src="https://github.com/user-attachments/assets/1ebfe408-2ce4-4ce3-b20a-f2b7487afa8a" alt="react" width="50" height="50"></p>
   
-  <h3>A passionate developer from 🇱🇰 Sri Lanka</h3>
-</div>
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 **Full Stack Developer** | Java & Web Development Enthusiast
-- 🌱 Currently mastering **Object-Oriented Programming with Java**
-- 👨‍🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**
-- 🎯 Passionate about building scalable applications and learning new technologies
-- 💡 Always eager to collaborate on innovative projects
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-
-### **Frontend**
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
-
-### **Backend & Tools**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thameera-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-</div>
-
----
-
-## 🎓 Learning Path
-
-- ✅ Fundamentals of Programming
-- ✅ Web Development (HTML, CSS, JavaScript)
-- ✅ Frontend Frameworks (Angular, React)
-- 🔄 Object-Oriented Programming (Java)
-- ⏳ Backend Development & Databases
-- ⏳ DevOps & Cloud Technologies
-
----
-
-## 💼 Featured Projects
-
-Coming soon! Check out my [repositories](https://github.com/Thameera-01?tab=repositories) for more.
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: **thameerathathsara1@gmail.com**
-- 🐦 Twitter: [@thameera](https://twitter.com/thameera)
-- 💼 LinkedIn: [Thameera Thathsara](https://www.linkedin.com/in/thameera-thathsara-794499311/)
-- ✍️ Medium: [@thameerathathsara98](https://medium.com/@thameerathathsara98)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thameera-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
-
+ <h3 align="center"> GitHub Analytics</h3>
+ 
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thameera-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=algolia"/>
+  </p>
