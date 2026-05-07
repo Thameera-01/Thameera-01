@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Thameera Thathsara</h1>
+<h1 align="center">Hi 👋, I'm Thameera Thathsara
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+OOP+Learner;AI/ML+Learner+%7C+React+Enthusiast;Undergraduate+%40+Sabaragamuwa+University+of+Sri+Lanka;From+Sri+Lanka" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
