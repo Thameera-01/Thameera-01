@@ -57,13 +57,13 @@
   <tr>
     <td align="center"><b>Frontend & Web</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,threejs,jquery" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" alt="Frontend" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend & Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres" alt="Backend and Databases" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres" alt="Backend and Databases" />
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@
   <tr>
     <td align="center"><b>Cloud, DevOps & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,postman,vscode,arduino" alt="Cloud and Tools" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel,postman,vscode,arduino" alt="Cloud and Tools" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="48" width="48" alt="Jupyter Notebook" />
     </td>
   </tr>
