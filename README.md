@@ -75,7 +75,7 @@
   <tr>
     <td align="center"><b>Cloud, DevOps & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,postman,vscode,blender,arduino" alt="Cloud and Tools" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,postman,vscode,arduino" alt="Cloud and Tools" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="48" width="48" alt="Jupyter Notebook" />
     </td>
   </tr>
