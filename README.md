@@ -47,10 +47,39 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,react,nextjs,angular,html,css,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,docker,linux,git,github,aws,tensorflow&perline=12" alt="Tech Stack" />
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,threejs,jquery" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres" alt="Backend and Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML & Vision</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI and ML" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud, DevOps & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,postman,vscode,blender,arduino" alt="Cloud and Tools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="48" width="48" alt="Jupyter Notebook" />
+    </td>
+  </tr>
+</table>
 ---
 
 
