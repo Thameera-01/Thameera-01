@@ -57,7 +57,7 @@
   <tr>
     <td align="center"><b>Frontend & Web</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,threejs" alt="Frontend" />
     </td>
   </tr>
   <tr>
