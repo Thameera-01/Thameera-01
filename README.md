@@ -80,9 +80,8 @@
     </td>
   </tr>
 </table>
+
 ---
-
-
 
 ### 📊 GitHub Analytics
 
