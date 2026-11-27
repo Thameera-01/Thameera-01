@@ -1,44 +1,73 @@
-<h1 align="center">Hi 👋, I'm Thameera Thathsara
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+OOP+Learner;AI/ML+Learner+%7C+React+Enthusiast;Undergraduate+%40+Sabaragamuwa+University+of+Sri+Lanka;From+Sri+Lanka" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<h3 align="center">A passionate developer from Sri Lanka</h3>
-<table>
-  <td>  
-    
-   - 👨‍💻 I am Thameera Thathsara.
-    
-   - 🌱 I’m currently learning OOP with Java.
-    
-   - 👨‍🎓 I'm an Undergraduate at **Sabaragamuwa university of Sri Lanka**.
-   
-   - 📫 How to reach me **thameerathathsara1@gmail.com**.
-     
-  </td>
-  <td>
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
-      </td>
-</table>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/thameera" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9688a1d6-d124-47ba-94e6-f1a1efe67946" alt="thameera" height="30" width="50" /></a>
-<a href="https://www.linkedin.com/in/thameera-thathsara" target="blank"><img align="center" src="https://github.com/user-attachments/assets/31124284-7553-4e5a-857c-c48b588de5fa" alt="thameera thathsara" height="30" width="50" /></a><a href="https://www.instagram.com/thameera_th?igsh=MXNpeDU5d280cnVyeA==" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e1d9ae0b-279e-463b-b9ec-2894e7a56897" alt="thameera thathsara" height="30" width="50"/></a>
-<a href="https://medium.com/@thameerathathsara98" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b63ce80-019e-45d9-b45f-bc94a5ec9bd9"  alt="thameera thathsara" height="30" width="50" /></a>
-
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><img  src="https://github.com/user-attachments/assets/bdbc6d71-ba38-4db7-91dd-cc9661d2403a" alt="angular" width="50" height="50"> <img src="https://github.com/user-attachments/assets/3b16f5b6-53cd-42b1-a9d9-fbc9bd60c2ec" alt="bootstrap" width="50" height="50"> <img src="https://github.com/user-attachments/assets/2ce0bae4-f5ae-43c0-88ed-ffd7f9c24e81" alt="c" width="50" height="50"> <img src="https://github.com/user-attachments/assets/d78b3e20-2b3c-4aac-9b99-3e06a82a40f8" alt="css3" width="50" height="50"> 
-  <img src="https://github.com/user-attachments/assets/33351ecf-dd80-43c1-b16b-fa1d67626276" alt="docker" width="50" height="50"> <img src="https://github.com/user-attachments/assets/b59ed972-b610-4ca7-8d42-f9f8aab9d05a" alt="git" width="50" height="50">
-  <img src="https://github.com/user-attachments/assets/1dbec805-2d03-4292-b692-3d060519a175" alt="html5" width="50" height="50"> <img src="https://github.com/user-attachments/assets/1ceca38d-020c-4ead-969a-4bf4fa19e5a4" alt="java" width="50" height="50"> <img src="https://github.com/user-attachments/assets/b8056cf1-ceef-48be-b05c-2c854d6c9276" alt="javascript" width="50" height="50"> <img src="https://github.com/user-attachments/assets/ef6d017b-3343-40d8-9081-0812eaa2b2dd" alt="linux" width="50" height="50"> <img src="https://github.com/user-attachments/assets/eaed3e4a-09a8-48b7-8fea-3d4955d4cb3c" alt="mysql" width="50" height="50"> <img src="https://github.com/user-attachments/assets/edc7441c-2f37-4d57-8f73-9ea2eb82c3c2" alt="python" width="50" height="50"> <img src="https://github.com/user-attachments/assets/1ebfe408-2ce4-4ce3-b20a-f2b7487afa8a" alt="react" width="50" height="50"></p>
-  
- <h3 align="center"> GitHub Analytics</h3>
- 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thameera-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=algolia"/>
+<div align="center">
+  <h1>Hi 👋, I'm Thameera Thathsara</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Systems+Undergraduate+%40+SUSL;Full-Stack+Developer+%7C+AI%2FML+%26+Cloud+Builder;AWS+Certified+AI+Practitioner+(SimuLearn);Building+Scalable+Web+%26+Distributed+Systems" alt="Typing SVG" />
   </p>
+  <p>
+    <a href="https://www.linkedin.com/in/thameera-thathsara" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@thameerathathsara98" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://twitter.com/thameera" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://www.instagram.com/thameera_th" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:thameerathathsara1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="62%">
+      <ul>
+        <li>🎓 Pursuing <b>BSc (Hons) in Information Systems</b> at <b>Sabaragamuwa University of Sri Lanka</b>.</li>
+        <li>🚀 Building end-to-end <b>Full-Stack Applications</b>, <b>AI/ML Pipelines</b>, and <b>Containerized Microservices</b>.</li>
+        <li>☁️ Earned the <b>AWS SimuLearn – AI Practitioner</b> badge; focused on cloud architecture, backend concurrency, and system design.</li>
+        <li>✍️ Technical writer on <b>Medium & LinkedIn</b> covering Deep Learning, Model Context Protocol (MCP), and software engineering fundamentals.</li>
+        <li>📫 Reach out at <b>thameerathathsara1@gmail.com</b> for collaborations or engineering roles.</li>
+      </ul>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,go,c,js,ts,react,nextjs,angular,html,css,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,docker,linux,git,github,aws,tensorflow&perline=12" alt="Tech Stack" />
+</div>
+
+---
+
+
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Thameera-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameera-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thameera-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thameera-01/Thameera-01/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
