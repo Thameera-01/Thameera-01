@@ -34,7 +34,7 @@
         <li>🚀 Building end-to-end <b>Full-Stack Applications</b>, <b>AI/ML Pipelines</b>, and <b>Containerized Microservices</b>.</li>
         <li>☁️ Earned the <b>AWS SimuLearn – AI Practitioner</b> badge; focused on cloud architecture, backend concurrency, and system design.</li>
         <li>✍️ Technical writer on <b>Medium & LinkedIn</b> covering Deep Learning, Model Context Protocol (MCP), and software engineering fundamentals.</li>
-        <li>📫 Reach out at <b>thameerathathsara1@gmail.com</b> for collaborations or engineering roles.</li>
+        <li>📫 Reach out at <b>thameerathathsara98@gmail.com</b> for collaborations or engineering roles.</li>
       </ul>
     </td>
     <td width="38%" align="center">
