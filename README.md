@@ -10,7 +10,7 @@
     <a href="https://medium.com/@thameerathathsara" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
-    <a href="https://twitter.com/thameera" target="_blank">
+    <a href="https://x.com/ThameeraTh" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://www.instagram.com/thameera_th" target="_blank">
